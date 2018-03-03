@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Baking Time</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_view_text">No Recipe found!</string>
+    <string name="menu_back">Back</string>
+    <string name="menu_home">Home</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="restart">Restart</string>
+    <string name="recipe">Play recipe steps</string>
+    <string name="notification_text">Press play to show the instruction</string>
+    <string name="introduction">Introduction</string>
+    <string name="prev_step">Prev Step</string>
+    <string name="next_step">Next Step</string>
+</resources>
